@@ -75,6 +75,10 @@ p.lead {
     background-color: #395599;
 }
 
+.social-icons a.play:hover {
+    background-color: #00D3FF;
+}
+
 .social-icons a.twitter:hover {
     background-color: #1C9DEB;
 }
