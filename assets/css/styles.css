@@ -69,6 +69,10 @@ p {
   text-align: center;
   color: #fff;
 }
+
+.cert-break{
+  padding: 10px 0px;
+}
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;
