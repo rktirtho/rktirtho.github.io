@@ -73,6 +73,10 @@ p {
 .cert-break{
   padding: 10px 0px;
 }
+.social a{
+  padding-right: 5px;
+
+}
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;
